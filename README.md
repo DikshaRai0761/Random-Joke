@@ -9,4 +9,4 @@
 - JavaScript (Vanilla)
 
 ## Live Demo
-👉 [View it live here]()
+👉 [View it live here](https://diksharai0761.github.io/Random-Joke/)
